@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AlkGame</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="jelszo_sec">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="gameStart">Játék</string>
+    <string name="leaderBoard">Ranglista</string>
+    <string name="exit">Kilépés</string>
+    <string name="googleLogin">Bejelentkezés Google fiókkal</string>
+    <string name="points">Pontok: 0</string>
+    <string name="reload">Frissítés</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_fullscreen_game">FullscreenGame</string>
+    <string name="fullscreen">fullscreen</string>
+    <string name="playerHp">Életek: 3</string>
+</resources>

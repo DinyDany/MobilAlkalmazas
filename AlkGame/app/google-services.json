@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647197043155",
+    "project_id": "androidgame-d27c6",
+    "storage_bucket": "androidgame-d27c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647197043155:android:9c1c50a04c40637be56726",
+        "android_client_info": {
+          "package_name": "com.example.alkgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647197043155-o6rfbte3r15jusbgkvjkuf6ner0v6odb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alkgame",
+            "certificate_hash": "9e781f2a25eaeb2069b57a01e9d09583d7fc0825"
+          }
+        },
+        {
+          "client_id": "647197043155-kfvqq80veem7nfgbcv3agngmlksdmc2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUq50RZt5WlrEpH3xihwykFv3B6WhzIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647197043155-kfvqq80veem7nfgbcv3agngmlksdmc2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
